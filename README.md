@@ -1,6 +1,4 @@
-# Precog Recruitment Task
-
-## Task: Analyzing hateful memes || Theme: Computer Vision
+# Task: Analyzing hateful memes || Theme: Computer Vision
 
 - Name: Swayam Agrawal
 - Roll: 2021101068
